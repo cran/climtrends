@@ -1,0 +1,7 @@
+demoWorsleyLR	example of using the Worsley Likelihood Ratio test
+demoCraddockTest	example of using the Craddock test
+demoWijngaard2003	reproducing the calculations and graphics from Wijngaard, J. B., Klein Tank, A. M. G. and Können, G. P. (2003), Homogeneity of 20th century European daily temperature and precipitation series.
+demoCumulativeDeviations	example of Cumulative Deviations
+Hampel1		Hampel filter removal of outliers
+Hampel2		Adaptive Hampel filter removal of outliers
+Hampel3		Median Filter Based on Filter Window

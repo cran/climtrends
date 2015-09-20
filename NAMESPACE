@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]%]+")
+importFrom("graphics", "abline", "legend", "par", "plot")
+importFrom("stats", "aggregate", "cor", "embed", "mad", "median", "qt","quantile", "rnorm", "sd", "ts", "wilcox.test")
+importFrom("utils", "read.csv", "read.delim", "read.fwf", "read.table","write.table")
