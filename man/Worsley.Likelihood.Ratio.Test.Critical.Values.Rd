@@ -6,8 +6,8 @@
 values for the Worsley's likelihood ratio test.
 }
 \format{
-  This data frame contains 6 columns (Q90%, Q95%, Q99%, R90%, R95% and R99%) 
-and 7 rows (n=10, 20, 30, 40, 50, 100 and Inf) of data.
+  This data frame contains 3 columns (alpha10%, alpha5%, alpha1%) 
+and 9 rows (n=10, 15, 20, 25, 30, 35, 40, 45, 50) of data.
 }
 \source{
 Worsley, K.J., 1979

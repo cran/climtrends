@@ -1,7 +1,7 @@
 Package: climtrends
 Type: Package
 Title: Statistical Methods for Climate Sciences
-Version: 1.0.5
+Version: 1.0.6
 Encoding: UTF-8
 Authors@R: c(person(given = "Jose", family = "Gama", role = c("aut","cre"),email = "rxprtgama@gmail.com"))
 Description: Absolute homogeneity tests SNHT absolute 1-breaks, 1-break, 
@@ -18,8 +18,8 @@ Author: Jose Gama [aut, cre]
 Maintainer: Jose Gama <rxprtgama@gmail.com>
 Repository: CRAN
 Repository/R-Forge/Project: climtrends
-Repository/R-Forge/Revision: 10
-Repository/R-Forge/DateTimeStamp: 2015-09-20 14:46:27
-Date/Publication: 2015-09-20 18:02:18
+Repository/R-Forge/Revision: 12
+Repository/R-Forge/DateTimeStamp: 2016-05-25 15:46:30
+Date/Publication: 2016-05-26 17:56:25
 NeedsCompilation: no
-Packaged: 2015-09-20 15:05:23 UTC; rforge
+Packaged: 2016-05-25 19:25:14 UTC; rforge
